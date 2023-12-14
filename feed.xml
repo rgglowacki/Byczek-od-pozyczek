@@ -3,12 +3,36 @@
     <title>Byczek od Pożyczek</title>
     <link href="https://byczekodpozyczek.pl/feed.xml" rel="self" />
     <link href="https://byczekodpozyczek.pl" />
-    <updated>2023-12-14T20:55:52+01:00</updated>
+    <updated>2023-12-14T21:39:09+01:00</updated>
     <author>
         <name>XXX</name>
     </author>
     <id>https://byczekodpozyczek.pl</id>
 
+    <entry>
+        <title>asdasdas</title>
+        <author>
+            <name>XXX</name>
+        </author>
+        <link href="https://byczekodpozyczek.pl/asdasdas.html"/>
+        <id>https://byczekodpozyczek.pl/asdasdas.html</id>
+        <media:content url="https://byczekodpozyczek.pl/media/posts/2/Karma-z-insektow-dla-psow-i-kotow-BRIT.png" medium="image" />
+
+        <updated>2023-12-14T21:39:09+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://byczekodpozyczek.pl/media/posts/2/Karma-z-insektow-dla-psow-i-kotow-BRIT.png" alt="" />
+                    asA
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://byczekodpozyczek.pl/media/posts/2/Karma-z-insektow-dla-psow-i-kotow-BRIT.png" class="type:primaryImage" alt="" /></p>
+                <p>asA</p>
+
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>adsd</title>
         <author>
