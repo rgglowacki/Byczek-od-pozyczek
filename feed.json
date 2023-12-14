@@ -9,34 +9,5 @@
         "name": "XXX"
     },
     "items": [
-        {
-            "id": "https://byczekodpozyczek.pl/asdasdas.html",
-            "url": "https://byczekodpozyczek.pl/asdasdas.html",
-            "title": "asdasdas",
-            "summary": "asA",
-            "content_html": "<p>asA</p>\n",
-            "image": "https://byczekodpozyczek.pl/media/posts/2/Karma-z-insektow-dla-psow-i-kotow-BRIT.png",
-            "author": {
-                "name": "XXX"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-12-14T21:39:09+01:00",
-            "date_modified": "2023-12-14T21:39:09+01:00"
-        },
-        {
-            "id": "https://byczekodpozyczek.pl/adsd.html",
-            "url": "https://byczekodpozyczek.pl/adsd.html",
-            "title": "adsd",
-            "summary": "adsasd",
-            "content_html": "<p>adsasd</p>",
-            "author": {
-                "name": "XXX"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-12-14T20:55:52+01:00",
-            "date_modified": "2023-12-14T20:55:52+01:00"
-        }
     ]
 }
