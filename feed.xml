@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Byczek od Pożyczek</title>
+    <link href="https://byczekodpozyczek.pl/feed.xml" rel="self" />
+    <link href="https://byczekodpozyczek.pl" />
+    <updated>2023-12-14T20:55:52+01:00</updated>
+    <author>
+        <name>XXX</name>
+    </author>
+    <id>https://byczekodpozyczek.pl</id>
+
+    <entry>
+        <title>adsd</title>
+        <author>
+            <name>XXX</name>
+        </author>
+        <link href="https://byczekodpozyczek.pl/adsd.html"/>
+        <id>https://byczekodpozyczek.pl/adsd.html</id>
+
+        <updated>2023-12-14T20:55:52+01:00</updated>
+            <summary>
+                <![CDATA[
+                    adsasd
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>adsasd</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

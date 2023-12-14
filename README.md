@@ -1,1 +1,0 @@
-# Byczek-od-pozyczek

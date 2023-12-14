@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Byczek od Pożyczek",
+    "description": "",
+    "home_page_url": "https://byczekodpozyczek.pl",
+    "feed_url": "https://byczekodpozyczek.pl/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "XXX"
+    },
+    "items": [
+        {
+            "id": "https://byczekodpozyczek.pl/adsd.html",
+            "url": "https://byczekodpozyczek.pl/adsd.html",
+            "title": "adsd",
+            "summary": "adsasd",
+            "content_html": "<p>adsasd</p>",
+            "author": {
+                "name": "XXX"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-12-14T20:55:52+01:00",
+            "date_modified": "2023-12-14T20:55:52+01:00"
+        }
+    ]
+}
